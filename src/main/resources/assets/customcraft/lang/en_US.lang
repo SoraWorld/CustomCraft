@@ -1,0 +1,8 @@
+# ColorBlocks
+itemGroup.colorTab=ColorBlocks
+# PlaceHolder
+tile.colorBlock.name=PlaceHolder
+tile.colorBightBlock.name=PlaceHolder[Shining]
+# Crystal
+tile.colorCrystal.name=Crystal
+tile.colorBightCrystal.name=Crystal[Shining]

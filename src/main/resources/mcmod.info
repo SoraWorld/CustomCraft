@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${modid}",
+    "description": "CustomCraft Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/SoraWorld/${modid}",
+    "updateUrl": "https://github.com/SoraWorld/${modid}/releases",
+    "authorList": [
+      "Himmelt"
+    ],
+    "credits": "The Forge and FML guys, for making this example",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

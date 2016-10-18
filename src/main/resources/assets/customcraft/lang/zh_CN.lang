@@ -1,0 +1,10 @@
+# 自定扩展Mod
+itemGroup.CustomCraft=自定扩展
+# 色彩方块
+itemGroup.colorTab=色彩方块
+# 占位符
+tile.colorBlock.name=占位符
+tile.colorBightBlock.name=占位符[发光]
+# 水晶
+tile.colorCrystal.name=水晶
+tile.colorBightCrystal.name=水晶[发光]
